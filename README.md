@@ -65,3 +65,5 @@ The dashboard provides a view of:
 └── screenshots/
     └── dashboard.png
 ```
+
+Dataset Source: Alex The Analyst – Data Professional Survey. The dataset was provided for educational analysis as part of a Power BI tutorial. This project independently focuses on data cleaning, transformation, DAX measures, visualization, and dashboard design.
