@@ -30,7 +30,7 @@ The dashboard includes:
 
 ## 📈 Dashboard Preview
 
-![Power BI Dashboard](screenshots/dashboard.png)
+![Power BI Dashboard](screenshots/dashboard1.png)
 
 ## Data Preparation
 
